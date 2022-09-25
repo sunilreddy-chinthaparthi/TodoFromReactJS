@@ -1,6 +1,6 @@
-import logo from "./logo.svg";
 import "./App.css";
 import Todo from "./components/Todo";
+
 function App() {
   return (
     <div>
@@ -14,8 +14,8 @@ function App() {
 
 export default App;
 
-{
-  /* <div className="App">
+// {
+/* <div className="App">
 <header className="App-header">
   <img src={logo} className="App-logo" alt="logo" />
   <p>welcome to my website</p>
@@ -36,4 +36,4 @@ export default App;
   </a>
 </header>
 </div> */
-}
+// }
